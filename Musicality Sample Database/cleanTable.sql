@@ -1,0 +1,12 @@
+DROP TABLE album_song;
+DROP TABLE playlist_song;
+DROP TABLE artist_for;
+DROP TABLE likes;
+DROP TABLE follows;
+DROP TABLE album;
+DROP TABLE song;
+DROP TABLE artist;
+DROP TABLE comment;
+DROP TABLE post;
+DROP TABLE playlist;
+DROP TABLE user;
