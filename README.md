@@ -6,11 +6,11 @@ The following is an outline of this repo:
 
 Assembly - The projects in this folder are for a Computer Organization and Design class, which mainly focused on Assembly programming.
 
-  Project 1 - A small project in the C language that manipulates values on the bit level.
+  -Project 1 - A small project in the C language that manipulates values on the bit level.
 
-  Project 2 - The fist Assembly project, coded in IA32 assembly language, to perform some basic calculations.
+  -Project 2 - The fist Assembly project, coded in IA32 assembly language, to perform some basic calculations.
 
-  Project 3 - This Assembly project simulates accessing memory cache.
+  -Project 3 - This Assembly project simulates accessing memory cache.
 
 FileSystem - This project is a C based simulation of a Single Directory file system using a professor-provided softwaredisk simulator. It
   was done via pair programming with my partner.
