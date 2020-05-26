@@ -13,11 +13,11 @@ Assembly - The projects in this folder are for a Computer Organization and Desig
   -Project 3 - This Assembly project simulates accessing memory cache.
 
 FileSystem - This project is a C based simulation of a Single Directory file system using a professor-provided softwaredisk simulator. It
-  was done via pair programming with my partner.
+  was done via pair programming with my partner for the Operating Systems class.
 
-Musicality Sample Database - This was a group project to design and set up a basic database.  I was heavily involved in the design and 
-  reporting aspect of the database.
+Musicality Sample Database - This was a group project in the Introduction to Database Design class to design and set up a basic database. 
+  I was heavily involved in the design and reporting aspect of the database.
 
 Scheme Interpreter in Python - We were given a subset of the Scheme language to write an interpreter in the Python language.  Before this 
   class, I had zero knowledge of both Scheme and Python.  This was also a pair programming project done with my partner, who had the same
-  amount of experience in Scheme and Python as I did.
+  amount of experience in Scheme and Python as I did for the Programming Language class.
