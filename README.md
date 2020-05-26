@@ -4,7 +4,7 @@ while also minimizes my contribution to cheating at my Alma Mater, as I know pro
 
 The following is an outline of this repo:
 
-Assembly - The projects in this folder are for a Computer Organization and Design class, which mainly focused on Assembly programming.
+Assembly Projects- The projects in this folder are for a Computer Organization and Design class, which mainly focused on Assembly programming.
 
   -Project 1 - A small project in the C language that manipulates values on the bit level.
 
